@@ -8,7 +8,7 @@ A New Script to Destroy Pocketmine Server (all access)
 > On Windows? Double click on "install", and after execute Pocketmine-Hack.py. 
 
 
-> On Linux and Termux (Android)? 'cd (path of the file)' , 'pip install -r requirements.txt' and 'python Pocketmine-Hack.py'.
+> On Linux and Termux (Android)? 'pkg install python', 'cd (path of the file)' , 'pip install -r requirements.txt' and 'python Pocketmine-Hack.py'.
 
 
 
